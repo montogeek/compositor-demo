@@ -44,8 +44,8 @@
     },
     {
       "component": "header",
-      "heading": "compositor-demo",
-      "subhead": null,
+      "heading": "Compositor Demo",
+      "subhead": "This a demo",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -57,7 +57,11 @@
           "user": "montogeek",
           "repo": "compositor-demo"
         }
-      ]
+      ],
+      "slug": "Demo time",
+      "text": "My demo description",
+      "links": [],
+      "image": ""
     },
     {
       "component": "article",
